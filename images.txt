@@ -1,2 +1,3 @@
 nginx
 youshandefeiyang/allinone
+verdaccio/verdaccio
