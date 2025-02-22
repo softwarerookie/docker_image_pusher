@@ -1,3 +1,4 @@
 nginx
 youshandefeiyang/allinone
 verdaccio/verdaccio
+sonatype/nexus3 
