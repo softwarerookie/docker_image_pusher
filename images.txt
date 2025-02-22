@@ -1,4 +1,5 @@
 nginx
 youshandefeiyang/allinone
 verdaccio/verdaccio
-sonatype/nexus3 
+sonatype/nexus3
+klo2k/nexus3
