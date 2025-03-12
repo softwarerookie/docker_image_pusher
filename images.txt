@@ -5,3 +5,4 @@ youshandefeiyang/allinone
 verdaccio/verdaccio
 sonatype/nexus3
 klo2k/nexus3
+containrrr/watchtower
