@@ -1,5 +1,4 @@
 nginx
-centos
 ubuntu
 youshandefeiyang/allinone
 verdaccio/verdaccio
